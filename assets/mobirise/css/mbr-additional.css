@@ -573,8 +573,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -1154,7 +1154,7 @@ pre {
   }
 }
 .cid-qrMHptoWr9 {
-  background-image: url("../../../assets/images/background6.jpg");
+  background-image: url("../../../assets/images/dsc-0571a-800x533.jpg");
 }
 @media (min-width: 992px) {
   .cid-qrMHptoWr9 .mbr-figure {
