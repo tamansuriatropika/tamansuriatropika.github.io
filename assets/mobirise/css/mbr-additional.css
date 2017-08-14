@@ -1154,7 +1154,7 @@ pre {
   }
 }
 .cid-qrMHptoWr9 {
-  background-image: url("../../../assets/images/dsc-0571a-800x533.jpg");
+  background-image: url("../../../assets/images/dsc-0568a-800x533.jpg");
 }
 @media (min-width: 992px) {
   .cid-qrMHptoWr9 .mbr-figure {
@@ -1172,6 +1172,10 @@ pre {
 }
 .cid-qrMHptoWr9 .mbr-section-title {
   text-align: left;
+  color: #ffffff;
+}
+.cid-qrMHptoWr9 .mbr-section-title B {
+  color: #ffffff;
 }
 .cid-qrYsf3PcZw {
   padding-top: 45px;
