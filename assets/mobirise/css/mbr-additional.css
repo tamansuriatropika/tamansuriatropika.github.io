@@ -1698,28 +1698,24 @@ body {
     border-left: .30em solid transparent;
   }
 }
-.cid-qrMHptoWr9 {
-  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+.cid-qxewvCjaSD {
+  background-image: url("../../../assets/images/taekwon-do-2000x1500.jpg");
 }
-@media (min-width: 992px) {
-  .cid-qrMHptoWr9 .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-qxewvCjaSD h1 {
+  color: #616161;
 }
-@media (max-width: 991px) {
-  .cid-qrMHptoWr9 .mbr-figure {
-    padding-top: 3rem;
-  }
+.cid-qxewvCjaSD h2,
+.cid-qxewvCjaSD h3,
+.cid-qxewvCjaSD p {
+  color: #767676;
 }
-.cid-qrMHptoWr9 .mbr-text,
-.cid-qrMHptoWr9 .mbr-section-btn {
-  text-align: left;
+.cid-qxewvCjaSD .mbr-section-subtitle {
+  font-style: italic;
 }
-.cid-qrMHptoWr9 .mbr-section-title {
-  text-align: left;
+.cid-qxewvCjaSD H1 {
   color: #ffffff;
 }
-.cid-qrMHptoWr9 .mbr-section-title B {
+.cid-qxewvCjaSD P {
   color: #ffffff;
 }
 .cid-qxaDlIz7xF {
